@@ -1,2 +1,2 @@
-# TriOS.github.io
+# TriOS-xp.github.io
 Website
